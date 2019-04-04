@@ -1,5 +1,3 @@
-# ig2i-le2-web2-dm1
-
 # Sujet du DM (écrit sur moodle) :
 >Travail à rendre avant les vacances de Noël (devoir maison 2018-2019 - Binômes Possibles) :
 
